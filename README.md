@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi! I'm Sebastián Olivo Cantillo 👋
 
-<!--
-**Sebastiankz/sebastiankz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 9th-semester Systems Engineering student at Universidad del Norte. My main professional focus is **software infrastructure, networking, cloud computing, and backend architecture**.
 
-Here are some ideas to get you started:
+### 🚀 What am I working on?
+* Developing a "Web and Mobile Citizen Collaboration Platform" for road safety management.
+* Building custom scalable backend architectures (implementing Supabase and containers) for corporate e-commerce platforms.
+* Designing professional development environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+* **Cloud & Infrastructure:** Microsoft Azure (AZ-900 Certified), Docker.
+* **Backend:** Node.js (Express.js), TypeScript, Python (Django, FastAPI), JavaScript.
+
+### 📫 How to reach me
+* **LinkedIn:** www.linkedin.com/in/sebastián-olivo
